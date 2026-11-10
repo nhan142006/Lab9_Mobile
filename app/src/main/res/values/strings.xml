@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 09 Photo Gallery</string>
+    <string name="auth_intro">Sign in or create an account to browse the online photo gallery.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create account</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="please_wait">Please wait</string>
+    <string name="reset_requested">If an account exists for this email, check your inbox for a reset link.</string>
+    <string name="error_invalid_email">Enter a valid email address.</string>
+    <string name="error_weak_password">Choose a stronger password with at least 6 characters.</string>
+    <string name="error_password_mismatch">The passwords do not match.</string>
+    <string name="error_duplicate_email">This email is already registered.</string>
+    <string name="error_invalid_credentials">Incorrect email or password.</string>
+    <string name="error_network">Check your internet connection and try again.</string>
+    <string name="error_rate_limit">Too many attempts. Please try again later.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="signed_in_as">Signed in as</string>
+    <string name="profile_avatar">Profile avatar</string>
+    <string name="logout">Logout</string>
+</resources>
